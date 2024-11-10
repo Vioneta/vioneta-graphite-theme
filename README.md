@@ -1,9 +1,9 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Vioneta/vioneta-graphite-theme/main/docs/logo_s.svg" width="240" alt="Logo Graphite Theme"/></p>
 <h3 align="center">Graphite Theme for Vioneta</h3>
 <p align="center">
-	<a href="https://my.home-assistant.io/redirect/hacs_repository/?owner=TilmanGriesel&repository=graphite&category=theme"><img src="https://img.shields.io/badge/hacs-default-blue?colorA=1F2229&colorB=5c5e70&style=for-the-badge"></a>
-	<a href="https://github.com/tilmangriesel/graphite/stargazers"><img src="https://img.shields.io/github/stars/tilmangriesel/graphite?colorA=1F2229&colorB=5c5e70&style=for-the-badge"></a>
-	<a href="https://github.com/tilmangriesel/graphite/issues"><img src="https://img.shields.io/github/issues/tilmangriesel/graphite?colorA=1F2229&colorB=5c5e70&style=for-the-badge"></a>
+	<img src="https://img.shields.io/badge/VPS-default-blue?colorA=1F2229&colorB=5c5e70&style=for-the-badge">
+	<a href="https://github.com/Vioneta/vioneta-graphite-theme/stargazers"><img src="https://img.shields.io/github/stars/Vioneta/vioneta-graphite-theme?colorA=1F2229&colorB=5c5e70&style=for-the-badge"></a>
+	<a href="https://github.com/Vioneta/vioneta-graphite-theme/issues"><img src="https://img.shields.io/github/issues/Vioneta/vioneta-graphite-theme?colorA=1F2229&colorB=5c5e70&style=for-the-badge"></a>
 </p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/Vioneta/vioneta-graphite-theme/main/docs/screenshots/main.png"/><br/></p>
